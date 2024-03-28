@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_TldO4OxEEe6PrLAljZYb1A" label="DEMO_FINAL_PROJECT" language="java" technicalLabel="DEMO_FINAL_PROJECT" author="_TldO4exEEe6PrLAljZYb1A" productVersion="Talend Cloud Data Fabric-8.0.1.20230418_1502-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/nasakey/talend-final-project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_ToNn8OxEEe6PrLAljZYb1A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_TldO4exEEe6PrLAljZYb1A" login="nassim.nalla@nfr.keyrus.com" firstName="Nassim" lastName="NALLA" type="DQ"/>
+</xmi:XMI>

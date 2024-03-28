@@ -1,0 +1,6 @@
+{
+  "reference_projects" : [ {
+    "project" : "DEMO_COMMON_PROJECT",
+    "branch" : "main"
+  } ]
+}

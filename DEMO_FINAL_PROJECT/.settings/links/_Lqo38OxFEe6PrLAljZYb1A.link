@@ -1,0 +1,61 @@
+{
+  "itemId" : "_Lqo38OxFEe6PrLAljZYb1A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_ov0D4OwwEe65iaaP__Du3g",
+    "parameterList" : [ {
+      "id" : "_owI0B-wwEe65iaaP__Du3g",
+      "name" : "CRM_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_owI0BuwwEe65iaaP__Du3g",
+      "name" : "CRM_CONNECTION_Database"
+    }, {
+      "id" : "_owI0BOwwEe65iaaP__Du3g",
+      "name" : "CRM_CONNECTION_Login"
+    }, {
+      "id" : "_owI0A-wwEe65iaaP__Du3g",
+      "name" : "CRM_CONNECTION_Password"
+    }, {
+      "id" : "_owI0BewwEe65iaaP__Du3g",
+      "name" : "CRM_CONNECTION_Port"
+    }, {
+      "id" : "_owI0AuwwEe65iaaP__Du3g",
+      "name" : "CRM_CONNECTION_Schema"
+    }, {
+      "id" : "_owI0AewwEe65iaaP__Du3g",
+      "name" : "CRM_CONNECTION_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_9GzyMOwwEe65iaaP__Du3g",
+    "parameterList" : [ {
+      "id" : "_9HGGF-wwEe65iaaP__Du3g",
+      "name" : "DWH_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_9HGGFuwwEe65iaaP__Du3g",
+      "name" : "DWH_CONNECTION_Database"
+    }, {
+      "id" : "_9HGGFOwwEe65iaaP__Du3g",
+      "name" : "DWH_CONNECTION_Login"
+    }, {
+      "id" : "_9HGGE-wwEe65iaaP__Du3g",
+      "name" : "DWH_CONNECTION_Password"
+    }, {
+      "id" : "_9HGGFewwEe65iaaP__Du3g",
+      "name" : "DWH_CONNECTION_Port"
+    }, {
+      "id" : "_9HGGEuwwEe65iaaP__Du3g",
+      "name" : "DWH_CONNECTION_Schema"
+    }, {
+      "id" : "_9HGGEewwEe65iaaP__Du3g",
+      "name" : "DWH_CONNECTION_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_uU4YgOw8Ee65iaaP__Du3g",
+    "parameterList" : [ {
+      "id" : "_uVHCAew8Ee65iaaP__Du3g",
+      "name" : "executionId"
+    } ]
+  } ]
+}
